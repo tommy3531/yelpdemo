@@ -7,6 +7,10 @@
 # Ignore bundler config.
 /.bundle
 
+# Cloud9 IDE - http://c9.io
+.c9revisions
+.c9
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
